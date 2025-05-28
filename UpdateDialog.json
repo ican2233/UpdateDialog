@@ -1,7 +1,7 @@
 {
   "dialogConfig": {
     "enabled": true,
-    "version": "5.386.0",
+    "version": "5.387.0",
     "mandatory": false,
     "update_url": "https://t.me/melawanbudayadominan",
     "title": "Update Available",
